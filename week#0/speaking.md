@@ -8,4 +8,4 @@ you should say:
 - how and why you got it
 - how long you it took you to read it, or how long you have been reading it
 - What kind of book it is
-and say if you would like to read something else similar or not, and why
+and say if you would like to read something else similar or not, and **why**

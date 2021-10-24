@@ -1,5 +1,7 @@
 # oxford-intermediate
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 Assignments:
 - [Week 1](https://github.com/mortezaomidi/oxford-intermediate/tree/main/week%231)
 - [Week 2](https://github.com/mortezaomidi/oxford-intermediate/tree/main/week%232)

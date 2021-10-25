@@ -1,8 +1,9 @@
 # oxford-intermediate
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Book](https://images-na.ssl-images-amazon.com/images/I/513qeeVnSUS._SX356_BO1,204,203,200_.jpg)
 
 Assignments:
+
 - [Week 1](https://github.com/mortezaomidi/oxford-intermediate/tree/main/week%231)
 - [Week 2](https://github.com/mortezaomidi/oxford-intermediate/tree/main/week%232)
 

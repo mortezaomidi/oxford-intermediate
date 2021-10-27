@@ -9,7 +9,12 @@
 - Determine stress
 - Formal or informal
 
-# 30 words ...
+| Word          | type          | Synonnim| Pronounciation  | stress    | is formal |
+| ------------- |---------------| -----   | --------------- | --------- | --------- |
+| vocabulary    | noun          | terms   |/vəˈkæbjələri/   |   k       |    yes    |
+| go through sth|               |         |                 |           |           |
+| repetition    | noun          |   again | /rɛpɪˈtɪʃ(ə)n/  |     t     |     yes   |
 
-
-## Table
+| word          | sentence                                  | sentence                            |
+| ---------     | ---------------------------------------   | ---------------------------------   |
+| vocabulary    | This book help us to expand ourvocabulary | It is important to guess vocabulary |
